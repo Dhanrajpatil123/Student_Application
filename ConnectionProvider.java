@@ -14,7 +14,7 @@ public class ConnectionProvider {
 		
 		String userName = "root";
 		
-		String password = "Dhanraj@143";
+		String password = "root";
 		
 		try {
 			
